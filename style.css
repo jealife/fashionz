@@ -35,6 +35,7 @@
 */
 
 html {
+  scroll-behavior: smooth !important;
   line-height: 1.5;
   /* 1 */
   -webkit-text-size-adjust: 100%;
@@ -58,6 +59,8 @@ html {
 */
 
 body {
+  
+  scroll-behavior: smooth !important;
   margin: 0;
   /* 1 */
   line-height: inherit;
